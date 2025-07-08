@@ -1,0 +1,9 @@
+{
+  "leaves": [
+    {
+      "employee": "Alice",
+      "days": 3,
+      "status": "approved"
+    }
+  ]
+}
