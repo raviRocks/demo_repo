@@ -1,0 +1,4 @@
+Leave Requests:
+
+- Alice: 3 days (approved)
+- Bob: 2 days (pending approval)
