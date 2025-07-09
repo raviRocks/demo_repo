@@ -1,0 +1,10 @@
+{
+  "Alice": {
+    "days": 3,
+    "status": "pending"
+  },
+  "Newton": {
+    "days": 1,
+    "status": "approved"
+  }
+}
