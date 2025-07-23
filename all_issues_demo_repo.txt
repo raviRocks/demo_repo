@@ -1,0 +1,48 @@
+Here’s a summary of the current open issues in the raviRocks/demo_repo repository:
+
+1. Feature request: Add dark mode
+   Suggests adding a dark mode option for the application interface.
+
+2. This is test issue by bot
+   A test issue created by a bot.
+
+3. Issue 14: Demo app login is not working
+   Reports that login is not enabled for the user in the demo app.
+
+4. issue 13 my demo app login is not working
+   Another login issue where login is not enabled for the user.
+
+5. Issue 11: My demo app login is not working
+   Describes a login failure due to login not being enabled for the user.
+
+6. Issue 10: My demo app login is not working
+   Similar login issue, possibly related to user account settings.
+
+7. Issue 10: Authentication is not working
+   Authentication is failing due to an expired secret.
+
+8. Issue 8: Auth is Not Working
+   Authentication mechanism is not working because the secret has expired.
+
+9. Issue 8: Auth is not working
+   Another authentication failure due to an expired secret.
+
+10. Issue 7: Auth is not working
+    Authentication fails because the secret is expired.
+
+11. Issue 6: Login is not working
+    Users are unable to log in due to an expired authentication secret.
+
+12. Issue 6: Login is not working
+    Login fails due to an expired secret.
+
+13. issue 5 login is not working
+    Login functionality is not working because the authentication secret has expired.
+
+14. issue 4: Login is not working
+    Login fails with authentication errors due to an expired secret.
+
+15. issue login is not working
+    Login is not working; the authentication secret is invalid or expired.
+
+Most issues are related to login or authentication failures, often due to expired secrets.
